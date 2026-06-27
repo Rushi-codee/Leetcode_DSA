@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
