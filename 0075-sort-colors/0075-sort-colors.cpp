@@ -3,7 +3,17 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
        int n = nums.size();
+    // dolved using duchh national flag algorithm 
 
+/*
+Where 
+
+0 To  low-1  is 0
+low To mid-1 is1
+high+1 To n-1 is 2
+
+we have to sort for mid to high 
+*/
        int low =0;
        int mid = 0;
        int high = n-1;
