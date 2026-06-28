@@ -3,7 +3,7 @@ class Solution {
 public:
     void sortColors(vector<int>& nums) {
        int n = nums.size();
-    // dolved using duchh national flag algorithm 
+    // Solved using duch national flag algorithm 
 
 /*
 Where 
