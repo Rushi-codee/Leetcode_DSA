@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
