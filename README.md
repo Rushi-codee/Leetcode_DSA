@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
