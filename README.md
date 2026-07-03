@@ -11,6 +11,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
