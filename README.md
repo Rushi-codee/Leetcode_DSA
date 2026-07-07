@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
