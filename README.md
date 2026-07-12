@@ -59,11 +59,13 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
