@@ -63,6 +63,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
