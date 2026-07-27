@@ -27,6 +27,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -66,6 +67,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
