@@ -31,6 +31,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
