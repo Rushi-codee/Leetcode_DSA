@@ -104,6 +104,7 @@
 | [0509-fibonacci-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -190,4 +191,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
