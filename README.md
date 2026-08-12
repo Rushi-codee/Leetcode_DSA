@@ -28,6 +28,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
@@ -53,6 +54,7 @@
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
