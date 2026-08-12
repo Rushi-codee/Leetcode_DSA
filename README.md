@@ -166,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -201,4 +202,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
