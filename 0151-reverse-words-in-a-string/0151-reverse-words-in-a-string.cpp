@@ -5,7 +5,7 @@ public:
         string ans = "";
         int i = n-1;
 
-        while(i>=0){
+        while(i>=0){  
              // Step 1: Skip trailing and intermediate spaces
             while(i>=0 && s[i] == ' '){
                 i--;
@@ -22,7 +22,7 @@ public:
             }
 
             // add a space before the next word (if ans is not empty)
-            if(!ans.empty()){
+            if(!ans.empty()){   
                 ans+= " ";
             }
 
