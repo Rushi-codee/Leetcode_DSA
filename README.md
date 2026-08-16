@@ -39,6 +39,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -111,6 +112,7 @@
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | ------- |
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -185,6 +189,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,10 +198,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -215,4 +222,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
