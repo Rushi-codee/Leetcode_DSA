@@ -63,6 +63,7 @@
 | [0031-next-permutation](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -166,6 +167,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
