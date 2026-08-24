@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1406-stone-game-iii) |
@@ -152,6 +153,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/1927-sum-game) |
