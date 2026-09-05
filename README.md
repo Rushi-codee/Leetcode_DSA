@@ -45,6 +45,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rushi-codee/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Minimax
 |  |
 | ------- |
